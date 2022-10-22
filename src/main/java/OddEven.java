@@ -1,7 +1,5 @@
 public class OddEven {
 
-         int nnumber;
-
 
 
     public int oddEven(int number) {
